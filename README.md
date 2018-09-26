@@ -1,2 +1,2 @@
-# -auth-reactNative
+# auth-reactNative
 reactNative udemy course tutorial
